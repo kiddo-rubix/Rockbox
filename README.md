@@ -219,4 +219,4 @@ Rockbox is offered as a complete free version with all features unlocked and upd
 Unlock the full potential of your devices today! Download Rockbox for free and enjoy an upgraded experience you never thought possible.
 
 ---
-**Last updated:** 2026-09-19 22:11:58 UTC
+**Last updated:** 2026-09-20 00:44:46 UTC
